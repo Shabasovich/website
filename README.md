@@ -1,6 +1,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <title>I have no idea</title>
 </head>
 <body style="background-color:#FFE6CC;">
     <h1 style="font-size:50px;">Click</h1>
