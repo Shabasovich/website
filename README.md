@@ -5,10 +5,8 @@
 </head>
 <body style="background-color:#FFE6CC;">
     <h1 style="font-size:50px;">Click</h1>
-<!--text-->
 <!--link-->
     <a href="https://youtu.be/dQw4w9WgXcQ?si=0Xyd5fSZemhl3zOy">I meant it</a>
-    <p id="1 Button">text</p>
     <p></p>
 <!--image-->
     <img src="skalaforsite.jpg" alt="Skala" width="200" height="200">
